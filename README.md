@@ -1,4 +1,4 @@
-### Hi!I 'm Ligiane Basques 👋
+### Hi!I 'm Ligiane 👋
 
 
 
