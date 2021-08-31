@@ -21,6 +21,8 @@
    <img align="right" alt="Ligi-anime" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
  </div>
  
+ ##
+ 
  <div>
   </a> 
   <a href = "email:ligianealzie25@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
