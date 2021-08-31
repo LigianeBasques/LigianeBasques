@@ -6,7 +6,7 @@
 - 🌱 I study artificial intelligence
 - 👯 Python Django volunteer developer at Codivas
  
-- 📫 How to reach me: ligianealzie25@gmail.com
+
 
 <div>
   <a href="https://github.com/LigianeBasques">
