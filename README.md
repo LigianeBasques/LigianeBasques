@@ -5,6 +5,7 @@
 - 🔭 I'm a software engineering intern at Gupy
 - 🌱 I study artificial intelligence
 - 👯 Python Django volunteer developer at Codivas
+
  
 
 
