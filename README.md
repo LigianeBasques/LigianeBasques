@@ -1,10 +1,10 @@
-### Hi! I 'm Ligiane 👋
+<h1>Hi! I 'm Ligiane😄</h1>
 
 
 
--❤️ I'm a software engineering intern at Gupy
--❤️ I study artificial intelligence
--❤️ I study english
+<h3>❤️I'm a software engineering intern at Gupy</h3>
+<h3>❤️I study artificial intelligence</h3>
+<h3>❤️I study english</h3>
 
  
 
