@@ -2,9 +2,9 @@
 
 
 
-<h2>❤️I'm a software engineering intern at Gupy</h3>
-<h2>❤️I study artificial intelligence</h3>
-<h2>❤️I study english</h3>
+<h2>❤️I'm a software engineering intern at Gupy❤️</h3>
+<h2>❤️I study artificial intelligence❤️</h3>
+<h2>❤️I study english❤️</h3>
 
  
 
