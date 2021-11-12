@@ -2,17 +2,17 @@
 
 
 
-<h3>❤️I'm a software engineering intern at Gupy</h3>
-<h3>❤️I study artificial intelligence</h3>
-<h3>❤️I study english</h3>
+<h2 align= "center">❤️I'm a software engineering intern at Gupy</h3>
+<h2 align= "center">❤️I study artificial intelligence</h3>
+<h2 align= "center">❤️I study english</h3>
 
  
 
 
 <div>
   <a href="https://github.com/LigianeBasques">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LigianeBasques&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LigianeBasques&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LigianeBasques&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LigianeBasques&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 <div style="display: inline_block"><br>
    
