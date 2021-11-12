@@ -2,9 +2,9 @@
 
 
 
-- 🔭 I'm a software engineering intern at Gupy
-- 🌱 I study artificial intelligence
-- 👯 I study english
+-❤️ I'm a software engineering intern at Gupy
+-❤️ I study artificial intelligence
+-❤️ I study english
 
  
 
