@@ -1,9 +1,9 @@
-<h1>Hi! I 'm Ligiane😄</h1> 
+<h1>Hi! I'm Ligiane😄</h1> 
 
 
 
 <h2>❤️I'm a software engineering intern at Gupy❤️</h3>
-<h2>❤️I study artificial intelligence❤️</h3>
+<h2>❤️I'm studying to be a Full Stack Developer❤️</h3>
 <h2>❤️I study english❤️</h3>
 
  
