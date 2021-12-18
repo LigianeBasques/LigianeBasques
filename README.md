@@ -3,7 +3,7 @@
 
 
 <h2>❤️I'm a software engineering intern at Gupy❤️</h3>
-<h2>❤️Studying to be a Full Stack Developer❤️</h3>
+<h2>❤️Studying to be a Software Test Analyst❤️</h3>
 <h2>❤️Studying english - Beginner(A1)❤️</h3>
 
  
