@@ -2,7 +2,7 @@
 
 
 
-<h2>❤️Development intern at Gupy❤️</h3>
+<h2>❤️Software engineering intern at gupy. ❤️</h3>
 <h2>❤️Studying to be a Software Test Analyst❤️</h3>
 <h2>❤️Studying english - Beginner(A1)❤️</h3>
 
