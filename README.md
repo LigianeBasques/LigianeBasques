@@ -2,8 +2,8 @@
 
 
 
-<h2>❤️Studying to be a Software Test Analyst❤️</h3>
-<h2>❤️Studying english - Beginner(A1)❤️</h3>
+<h2>❤️Estudando Quality Assurance (QA)❤️</h3>
+
 
  
 
