@@ -2,7 +2,7 @@
 
 
 
-<h2>❤️Estudando Quality Assurance (QA)❤️</h3>
+<h2>❤️Quality Assurance (QA)❤️</h3>
 
 
  
