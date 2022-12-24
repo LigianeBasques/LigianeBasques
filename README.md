@@ -3,6 +3,7 @@
 
 
 <h2>❤️Quality Assurance (QA)❤️</h3>
+<h2>❤️Estudando para tirar a certificação CTFL❤️</h3>
 
 
  
