@@ -1,9 +1,9 @@
-<h1>Oi! Sou Ligi😄</h1> 
+<h2>Oi! Sou Ligi😄</h2> 
 
 
 
-<h2>❤️Quality Assurance (QA)❤️</h3>
-<h2>❤️Estudando para tirar a certificação CTFL❤️</h3>
+<h2>❤️Quality Assurance (QA)❤️</h2>
+<h2>❤️Estudando para tirar a certificação CTFL❤️</h2>
 
 
  
