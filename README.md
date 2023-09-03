@@ -1,10 +1,9 @@
 <h1>Sobre Mim😄</h1> 
-<h3>Olá, meu nome é Ligiane. Mas podem me chamar de "Ligi"😄</h3> 
+<h3>Olá, meu nome é Ligiane. Mas podem me chamar de "Ligi". Gosto de ouvir música e assistir séries.😄</h3> 
 
 
 
-<h2>❤️Quality Assurance (QA)❤️</h2>
-<h2>❤️Estudando para tirar a certificação CTFL❤️</h2>
+
 
 
  
