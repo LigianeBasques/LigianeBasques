@@ -1,4 +1,5 @@
-<h2>Oi! Sou Ligi😄</h2> 
+<h2>Sobre Mim😄</h2> 
+<h2>Olá, meu nome é Ligiane. Mas podem me chamar de "Ligi"😄</h2> 
 
 
 
