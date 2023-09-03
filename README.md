@@ -1,5 +1,5 @@
-<h2>Sobre Mim😄</h2> 
-<h1>Olá, meu nome é Ligiane. Mas podem me chamar de "Ligi"😄</h1> 
+<h1>Sobre Mim😄</h1> 
+<h3>Olá, meu nome é Ligiane. Mas podem me chamar de "Ligi"😄</h3> 
 
 
 
