@@ -6,12 +6,6 @@
 
 
 
-
-
-
- 
-
-
 <div>
   <a href="https://github.com/LigianeBasques">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LigianeBasques&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
@@ -26,7 +20,7 @@
  </div>
 
               
- ##
+##
  
  <div>
   </a> 
