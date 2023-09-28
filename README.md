@@ -1,4 +1,4 @@
-<h1>Sobre Mim😄</h1> 
+# Sobre Mim😄 #
 <h3>Olá, meu nome é Ligiane. Mas podem me chamar de "Ligi", gosto de ouvir música e assistir séries. Sou graduada em engenharia de controle e automação, pelo Instituto Federal do Amazonas. </h3> 
 
 <h3> Atuo como analista QA, uma área que gosto muito. Atualmente venho estudando para me especializar em testes de acessibilidade digital. E também venho me preparando para tirar minha certificação CTFL.</h3> 
