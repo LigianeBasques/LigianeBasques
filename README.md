@@ -1,7 +1,10 @@
 # Sobre Mim😄 #
- Olá, meu nome é Ligiane. Mas podem me chamar de "Ligi", gosto de ouvir música e assistir séries. Sou graduada em engenharia de controle e automação, pelo Instituto Federal do Amazonas. 
+Olá, meu nome é Ligiane. Mas podem me chamar de "Ligi", gosto de animais, principalmente cachorro, adoro assistir séries, filmes e ouvir músicas. Um filme que assiti, na minha adolescência me marcou muito, esse filme era estrelado pelo ator Arnold Schwarzenegger. Era um filme sobre robôs que me fez sonhar em construir essas máquinas incríveis.
 
-Atuo como analista QA, uma área que gosto muito. Atualmente venho estudando para me especializar em testes de acessibilidade digital. E também venho me preparando para tirar minha certificação CTFL.
+Essa minha paixão inicial por robôs e minha inclinação para construir coisas me levaram  a cursar engenharia de controle e automação no Instituto Federal do Amazonas.  Durante meus estudos, eu adorava testar os softwares, a cada projeto que era testado era acompanhado por um entusiamo. Descobrir que adorava testar as criações tanto quanto constrí-las.  
+ 
+
+
 
 
 
