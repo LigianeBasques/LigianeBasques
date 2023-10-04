@@ -5,7 +5,7 @@ Essa minha paixão inicial por robôs e minha inclinação para construir coisas
 
 Com o tempo, percebi que minha verdadeira vocação estava na área de testes de software, onde poderia continuar minha paixão por testar e aperfeiçoar sistemas complexos, desde então sempre busquei melhorar e contribuir na melhoria da qualidade de software.
 
-Já atuei área como analista de QA, e atualmente estou cursando pós graduação em engenharia de software com ênfase em qualidade e testes de software. E tenho estudado testes de acessibilidade digital, pois acredito na importância de tornar a web acessível a todos e estou me especializando nesse campo. 
+Já atuei na área como analista de QA, e atualmente estou cursando pós graduação em engenharia de software com ênfase em qualidade e testes de software. E tenho estudado testes de acessibilidade digital, pois acredito na importância de tornar a web acessível a todos e estou me especializando nesse campo. 
 
  Além disso, estou em processo de preparação para obter minha certificação CTFL. Meu objetivo constante é promover e disseminar a cultura da qualidade em todos os lugares e na vida das pessoas.
  
