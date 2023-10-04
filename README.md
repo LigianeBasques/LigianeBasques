@@ -1,7 +1,7 @@
 # Sobre Mim😄 #
 Olá, meu nome é Ligiane. Mas podem me chamar de "Ligi", gosto de animais, principalmente cachorro, adoro assistir séries, filmes e ouvir músicas. Um filme que assiti, na minha adolescência me marcou muito, esse filme era estrelado pelo ator Arnold Schwarzenegger. Era um filme sobre robôs que me fez sonhar em construir essas máquinas incríveis.
 
-Essa minha paixão inicial por robôs e minha inclinação para construir coisas me levaram  a cursar engenharia de controle e automação no Instituto Federal do Amazonas.  Durante meus estudos, eu adorava testar os softwares, a cada projeto que era testado era acompanhado por um entusiamo. Descobrir que adorava testar as criações tanto quanto construí-las.  
+Essa minha paixão inicial por robôs e minha inclinação para construir coisas me levaram  a cursar engenharia de controle e automação no Instituto Federal do Amazonas.  Durante meus estudos, eu adorava testar os softwares, e a cada projeto que era testado era acompanhado por um entusiamo. Descobrir que adorava testar as criações tanto quanto construí-las.  
 
 Com o tempo, percebi que minha verdadeira vocação estava na área de testes de software, onde poderia continuar minha paixão por testar e aperfeiçoar sistemas complexos, desde então sempre busquei melhorar e contribuir na melhoria da qualidade de software.
 
