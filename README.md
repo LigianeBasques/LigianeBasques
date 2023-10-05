@@ -7,7 +7,7 @@ Com o tempo, percebi que minha verdadeira vocação estava na área de testes de
 
 Já atuo na área como analista de QA, e para fazer a diferença no campo da qualidade, decidi que era hora de elevar meus conhecimentos e alcançar novo patamares. Iniciei uma pós-graduação em engenharia de software com foco em qualidade e testes. Nesse caminho, mergulho profundamente em todos os aspectos da qualidade, buscando compreender não apenas os processos de teste, mas também como a qualidade está intrinsecamente ligada ao ciclo de vida do software.
 
-No entanto, o compromisso com a qualidade não parou por aí. Reconheço a importância da acessibilidade digital, compreendo que a web deve ser acessível a todos, independentemente de suas capacidades. Assim, decidi estudar para me se especializar nesse campo emergente e crucial. Estudando os princípios e práticas de testes de acessibilidade digital
+No entanto, o compromisso com a qualidade não parou por aí. Reconheço a importância da acessibilidade digital, compreendo que a web deve ser acessível a todos, independentemente de suas capacidades. Assim, decidi estudar para me especializar nesse campo emergente e crucial. Estudando os princípios e práticas de testes de acessibilidade digital
 
 Além disso, estou em processo de preparação para obter minha certificação CTFL, com isso,pretendo validar minhas habilidades e conhecimentos, para me destacar como uma especialista em testes de qualidade de software.
 
