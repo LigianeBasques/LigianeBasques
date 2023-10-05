@@ -7,6 +7,8 @@ Com o tempo, percebi que minha verdadeira vocação estava na área de testes de
 
 Já atuo na área como analista de QA, e para fazer a diferença no campo da qualidade, decidi que era hora de elevar meus conhecimentos e alcançar novo patamares. Iniciei uma pós-graduação em engenharia de software com foco em qualidade e testes. 
 
+Nesse caminho, mergulho profundamente em todos os aspectos da qualidade, buscando compreender não apenas os processos de teste, mas também como a qualidade está intrinsecamente ligada ao ciclo de vida do software.
+
  Além disso, estou em processo de preparação para obter minha certificação CTFL, meu objetivo é promover e disseminar a cultura da qualidade em todos os lugares e na vida das pessoas.
  
 
