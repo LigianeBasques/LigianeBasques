@@ -5,7 +5,7 @@ Essa minha paixão inicial por robôs e minha inclinação para construir coisas
 
 Com o tempo, percebi que minha verdadeira vocação estava na área de testes de software, onde poderia continuar minha paixão por testar e aperfeiçoar sistemas complexos, desde então sempre busquei melhorar e contribuir na melhoria da qualidade de software.
 
-Já atuo na área como analista de QA, e para fazer a diferença no campo da qualidade, decidi que era hora de elevar meus conhecimentos e alcançar novo patamares. Iniciei uma pós-graduação em engenharia de software com foco em qualidade e testes. Nesse caminho, mergulho profundamente em todos os aspectos da qualidade, buscando compreender não apenas os processos de teste, mas também como a qualidade está intrinsecamente ligada ao ciclo de vida do software.
+Já atuo na área como analista de QA, e para fazer a diferença no campo da qualidade, decidi que era hora de elevar meus conhecimentos e alcançar novos patamares. Iniciei uma pós-graduação em engenharia de software com foco em qualidade e testes. Nesse caminho, mergulho profundamente em todos os aspectos da qualidade, buscando compreender não apenas os processos de teste, mas também como a qualidade está intrinsecamente ligada ao ciclo de vida do software.
 
 No entanto, o compromisso com a qualidade não parou por aí. Reconheço a importância da acessibilidade digital, compreendo que a web deve ser acessível a todos, independentemente de suas capacidades. Assim, decidi estudar para me especializar nesse campo emergente e crucial. Estudando os princípios e práticas de testes de acessibilidade digital
 
