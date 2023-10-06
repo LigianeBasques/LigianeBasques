@@ -22,6 +22,12 @@ Além disso, estou em processo de preparação para obter minha certificação C
 ### 📌Senior Fulltack. -Instituto Joga Junto-📌 ###
 ***"A Ligiane foi uma das melhores profissionais que já conheci. Sempre proativa, responsável e colaborativa com a equipe. A Ligi busca sempre novas formas de fazer o processo, a fim de otimiza-lo e torna-lo mais eficiente."***
 
+### 📌Pessoa Desenvolvedora de software Full Stack. -Gupy-📌 ###
+***"Tenho orgulho de dizer que trabalhamos no mesmo time e a capacidade da Ligiane de descobrir, testar e validar bugs foi crucial para conseguirmos evoluir o produto."***
+
+### 📌Assistente de segurança da informação. -Gupy-📌 ###
+***"A Ligi sempre tratou os clientes com simplicidade e empatia. Destaca-se pela sua capacidade de resolver bugs na plataforma inesperados. Guardo excelentes memórias dos tempos em que trabalhavámos na mesma empresa, e não hesesito em recomenda-lá para qualquer função no universo da tecnologia."***
+
 
 
 
