@@ -13,13 +13,13 @@ Além disso, estou em processo de preparação para obter minha certificação C
 
 # 📝 Depoimentos📝  #
 
-### Fundador da Lacrei Saúde -Lacrei Saúde- ###
+### 📌Fundador da Lacrei Saúde -Lacrei Saúde-📌 ###
 ***"Ligiane é de longe uma das mulheres mais inteligentes com quem já trabalhei. Sua forma de agir profissionalmente, acolhe e ensina, sendo naturalmente uma líder nata. Aceitou o desafio proposto de ser QA Lead e fez por perfeição, dedicação e carinho. Ter Ligiane em seu quadro de colaboradores, faz com que seu time só tenha a ganhar."***
 
-### PO. -Lacrei Saúde- ###
+### 📌PO. -Lacrei Saúde-📌 ###
 ***"A Ligiane é uma excelente profissional. Muito responsável, proativa, colaborativa com todos, dedicada e sempre disposta e focada em ajudar todo o time".***
 
-### Senior Fulltack. -Instituto Joga Junto- ###
+### 📌Senior Fulltack. -Instituto Joga Junto-📌 ###
 ***"A Ligiane foi uma das melhores profissionais que já conheci. Sempre proativa, responsável e colaborativa com a equipe. A Ligi busca sempre novas formas de fazer o processo, a fim de otimiza-lo e torna-lo mais eficiente."***
 
 
