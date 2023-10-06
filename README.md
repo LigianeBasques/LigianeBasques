@@ -11,6 +11,11 @@ No entanto, o compromisso com a qualidade não parou por aí. Reconheço a impor
 
 Além disso, estou em processo de preparação para obter minha certificação CTFL, com isso,pretendo validar minhas habilidades e conhecimentos, para me destacar como uma especialista em testes de qualidade de software.
 
+# 📝 Depoimentos📝  #
+
+***"Ligiane é de longe uma das mulheres mais inteligentes com quem já trabalhei. Sua forma de agir profissionalmente, acolhe e ensina, sendo naturalmente uma líder nata. Aceitou o desafio proposto de ser QA Lead e fez por perfeição, dedicação e carinho. Ter Ligiane em seu quadro de colaboradores, faz com que seu time só tenha a ganhar."***
+<p>Fundador da Lacrei Saúde. Lacrei Saúde</p>
+
 
 
 
