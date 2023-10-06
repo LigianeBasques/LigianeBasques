@@ -20,7 +20,7 @@ Além disso, estou em processo de preparação para obter minha certificação C
 ***"A Ligiane é uma excelente profissional. Muito responsável, proativa, colaborativa com todos, dedicada e sempre disposta e focada em ajudar todo o time".***
 
 ### Senior Fulltack. -Instituto Joga Junto- ###
-***""A Ligiane foi uma das melhores profissionais que já conheci. Sempre proativa, responsável e colaborativa com a equipe. A Ligi busca sempre novas formas de fazer o processo, a fim de otimiza-lo e torna-lo mais eficiente.""***
+***"A Ligiane foi uma das melhores profissionais que já conheci. Sempre proativa, responsável e colaborativa com a equipe. A Ligi busca sempre novas formas de fazer o processo, a fim de otimiza-lo e torna-lo mais eficiente."***
 
 
 
