@@ -9,7 +9,7 @@ Já atuo na área como analista de QA, e para fazer a diferença no campo da qua
 
 No entanto, o compromisso com a qualidade não parou por aí. Reconheço a importância da acessibilidade digital, compreendo que a web deve ser acessível a todos, independentemente de suas capacidades. Assim, decidi estudar para me especializar nesse campo emergente e crucial. Estudando os princípios e práticas de testes de acessibilidade digital
 
-Além disso, estou em processo de preparação para obter minha certificação CTFL, com isso,pretendo validar minhas habilidades e conhecimentos, para me destacar como uma especialista em testes de qualidade de software.
+Além disso, possuo a certificação internacional de teste de software a CTFL - Certified Tester Foundation Level.
 
 # 📝 Depoimentos📝  #
 
