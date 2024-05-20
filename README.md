@@ -10,22 +10,23 @@ Além disso, possuo duas certificações internacionais em teste de software a C
 <li>📝 Palestrou na semana de estágio do Instituto federal do Amazonas</li>
 <li>✔️ Participou como voluntária de um projeto de uma ONG</li>
 
-# 📝 Depoimentos📝  #
+# Skills  #
 
-### 📌Fundador da Lacrei Saúde -Lacrei Saúde-📌 ###
-***"Ligiane é de longe uma das mulheres mais inteligentes com quem já trabalhei. Sua forma de agir profissionalmente, acolhe e ensina, sendo naturalmente uma líder nata. Aceitou o desafio proposto de ser QA Lead e fez por perfeição, dedicação e carinho. Ter Ligiane em seu quadro de colaboradores, faz com que seu time só tenha a ganhar."***
+### UX/UI ###
 
-### 📌PO. -Lacrei Saúde-📌 ###
-***"A Ligiane é uma excelente profissional. Muito responsável, proativa, colaborativa com todos, dedicada e sempre disposta e focada em ajudar todo o time".***
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-### 📌Senior Fulltack. -Instituto Joga Junto-📌 ###
-***"A Ligiane foi uma das melhores profissionais que já conheci. Sempre proativa, responsável e colaborativa com a equipe. A Ligi busca sempre novas formas de fazer o processo, a fim de otimiza-lo e torna-lo mais eficiente."***
+### Frameworks ###
+<img src="https://camo.githubusercontent.com/1e2f8a5c6f47abad9a4210a39dd479845208b6dc3e21d9e1f1ba82ab037aff77/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f526f626f742532304672616d65776f726b2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d726f626f742d6672616d65776f726b266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&amp;logo=robot-framework&amp;logoColor=white" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/e0aa4b3bb9af7d3610dd65656751f3940ef645e1e3e5ff727abecec2accfb31b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d506f73746d616e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=Postman&amp;logoColor=white" style="max-width: 100%;">
 
-### 📌Pessoa Desenvolvedora de software Full Stack. -Gupy-📌 ###
-***"Tenho orgulho de dizer que trabalhamos no mesmo time e a capacidade da Ligiane de descobrir, testar e validar bugs foi crucial para conseguirmos evoluir o produto."***
 
-### 📌Assistente de segurança da informação. -Gupy-📌 ###
-***"A Ligi sempre tratou os clientes com simplicidade e empatia. Destaca-se pela sua capacidade de resolver bugs na plataforma inesperados. Guardo excelentes memórias dos tempos em que trabalhavámos na mesma empresa, e não hesesito em recomenda-lá para qualquer função no universo da tecnologia."***
+
+
+
+
+
+
+
 
 
 
