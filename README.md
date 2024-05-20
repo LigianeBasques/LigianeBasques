@@ -57,6 +57,8 @@ Além disso, possuo duas certificações internacionais em teste de software a C
 
               
 ##
+
+### Entre em contato comigo ###
  
  <div>
   </a> 
