@@ -1,13 +1,13 @@
 # Sobre Mim😄 #
-Olá, meu nome é Ligiane. Mas podem me chamar de "Ligi", gosto de animais, principalmente cachorro, adoro assistir séries, filmes e ouvir músicas. Um filme que assiti, na minha adolescência me marcou muito, esse filme era estrelado pelo ator Arnold Schwarzenegger. Era um filme sobre robôs que me fez sonhar em construir essas máquinas incríveis.
+Olá, meu nome é Ligiane. Mas podem me chamar de "Ligi", adoro assistir séries, filmes e ouvir músicas. Um filme que assiti, na minha adolescência que me marcou muito, foi o filme estrelado pelo ator Arnold Schwarzenegger. Era um filme sobre robôs que me fez sonhar em construir essas máquinas incríveis.
 
 Essa minha paixão inicial por robôs e minha inclinação para construir coisas me levaram  a cursar engenharia de controle e automação no Instituto Federal do Amazonas.  Durante meus estudos, eu adorava testar os softwares, e a cada projeto que era testado era acompanhado por um entusiamo. Descobrir que adorava testar as criações tanto quanto construí-las.  
 
 Com o tempo, percebi que minha verdadeira vocação estava na área de testes de software, onde poderia continuar minha paixão por testar e aperfeiçoar sistemas complexos, desde então sempre busquei melhorar e contribuir na melhoria da qualidade de software.
 
-Já atuo na área como analista de QA, e para fazer a diferença no campo da qualidade, decidi que era hora de elevar meus conhecimentos e alcançar novos patamares. Iniciei uma pós-graduação em engenharia de software com foco em qualidade e testes. Nesse caminho, mergulho profundamente em todos os aspectos da qualidade, buscando compreender não apenas os processos de teste, mas também como a qualidade está intrinsecamente ligada ao ciclo de vida do software.
+Já atuo na área como analista de QA, e para fazer a diferença no campo da qualidade, decidi que era hora de elevar meus conhecimentos e alcançar novos patamares. Iniciei uma pós-graduação em engenharia de software com foco em qualidade e testes. Nesse caminho, mergulho profundamente em todos os aspectos da qualidade, buscando compreender não apenas os processos de teste, mas também como a qualidade está ligada ao ciclo de vida do software.
 
-No entanto, o compromisso com a qualidade não parou por aí. Reconheço a importância da acessibilidade digital, compreendo que a web deve ser acessível a todos, independentemente de suas capacidades. Assim, decidi estudar para me especializar nesse campo emergente e crucial. Estudando os princípios e práticas de testes de acessibilidade digital
+No entanto, o compromisso com a qualidade não parou por aí. Reconheço a importância da acessibilidade digital, compreendo que a web deve ser acessível a todos, independentemente de suas capacidades. Assim, decidi estudar e me aprofundar nos princípios e práticas de testes de acessibilidade digital
 
 Além disso, possuo as certificações internacionais em teste de software a CTFL - Certified Tester Foundation Level e ASTFC -  Accredited Software Testing Fundamentals Certification
 
