@@ -6,6 +6,9 @@ Sou formada em engenharia de controle e automação, pelo instituto federal do A
 Já atuo na área como analista de QA, sempre me aprofundando nas boas práticas e princípios de testes de software. Atualmente venho me dedicando aos testes de acessibilidade digital. 
 
 Além disso, possuo duas certificações internacionais em teste de software a CTFL - Certified Tester Foundation Level e ASTFC -  Accredited Software Testing Fundamentals Certification
+<li>🏆 3ª colocação no Hackathon das Manas</li>
+<li>📝 Palestrou na semana de estágio do Instituto federal do Amazonas</li>
+<li>✔️ Participou como voluntária de um projeto de uma ONG</li>
 
 # 📝 Depoimentos📝  #
 
