@@ -1,9 +1,9 @@
 # Sobre Mim😄 #
 ## Olá, meu nome é Ligiane. Mas podem me chamar de "Ligi", adoro assistir séries, filmes e ouvir músicas ##
 
-Sou formada em engenharia de controle e automação, pelo instituto federal do Amazonas. Estou cursando pós-graduação em engenharia de software com foco em qualidade e testes de software. 
-
-Já atuo na área como analista de QA, sempre me aprofundando nas boas práticas e princípios de testes de software. Atualmente venho me dedicando aos testes de acessibilidade digital. 
+Sou formada em engenharia de controle e automação, pelo instituto federal do Amazonas. 
+Já atuo na área como analista de QA, sempre me aprofundando nas boas práticas e princípios de testes de software.
+Atualmente venho me dedicando aos testes de acessibilidade digital. 
 
 Além disso, possuo duas certificações internacionais em teste de software a CTFL - Certified Tester Foundation Level e ASTFC -  Accredited Software Testing Fundamentals Certification
 <li>🏆 3ª colocação no Hackathon das Manas</li>
