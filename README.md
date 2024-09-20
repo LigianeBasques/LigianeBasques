@@ -55,8 +55,14 @@ Além disso, possuo duas certificações internacionais em teste de software a C
    
  </div>
 
-              
-##
+
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LigianeBasques/LigianeBasques/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LigianeBasques/LigianeBasques/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LigianeBasques/LigianeBasques/output/github-contribution-grid-snake.svg">
+</picture>             
+
 
 ### Entre em contato comigo ###
  
@@ -65,7 +71,7 @@ Além disso, possuo duas certificações internacionais em teste de software a C
   <a href = "ligianealzie25@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/ligiane-basques/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
-   ![Snake animation](https://github.com/LigianeBasques/LigianeBasques/blob/output/github-contribution-grid-snake.svg)
+   
  </div>
 
 
