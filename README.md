@@ -1,6 +1,5 @@
 # Sobre Mim😄 #
-## Olá, meu nome é Ligiane. Mas podem me chamar de "Ligi", adoro assistir séries, filmes e ouvir músicas ##
-
+## Olá, meu nome é Ligiane. Mas podem me chamar de "Ligi"
 Sou formada em engenharia de controle e automação, pelo instituto federal do Amazonas. 
 Já atuo na área como analista de QA, sempre me aprofundando nas boas práticas e princípios de testes de software.
 Atualmente venho me dedicando aos testes de acessibilidade digital. 
