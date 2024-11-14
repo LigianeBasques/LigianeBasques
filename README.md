@@ -5,6 +5,7 @@ Já atuo na área como analista de QA, sempre me aprofundando nas boas práticas
 Atualmente venho me dedicando aos testes de acessibilidade digital. 
 
 Sou certificada em testes pela ISTQB (CTFL) e AICS (ASTFC), e possuo certificação Scrum (ASFC), buscando sempre aprimorar a qualidade e a eficácia nos testes.
+## Conquista e voluntariado ##
 
 <li>🏆 3ª colocação no Hackathon das Manas</li>
 <li>📝 Palestrou na semana de estágio do Instituto federal do Amazonas</li>
