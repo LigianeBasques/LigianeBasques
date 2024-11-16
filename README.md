@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=b012c9&height=120&section=header">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&height=120&section=header">
 
  [![Typing_SVG](https://readme-typing-svg.herokuapp.com/?color=b012c9&size=35&center=true&vCenter=true&width=1000&amp&lines=Oi+tudo+de+boas?+Bem+vindos+ao+meu+GitHub;Que+tal+fazer+um+tuor+pelos+meus+projetos?;+:%29)](https://git.io/typing-svg)
 # Oi! Sou Ligiane Basques😄 #
@@ -79,6 +79,6 @@ Sou certificada em testes pela ISTQB (CTFL) e AICS (ASTFC), e possuo certificaç
    
  </div>
 
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b012c9&height=120&section=footer">
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&height=120&section=footer">
 
 
