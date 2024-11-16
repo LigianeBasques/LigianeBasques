@@ -79,4 +79,6 @@ Sou certificada em testes pela ISTQB (CTFL) e AICS (ASTFC), e possuo certificaç
    
  </div>
 
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b012c9&height=120&section=footer">
+
 
