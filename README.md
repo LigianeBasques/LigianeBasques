@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=b012c9&height=120&section=header">
+
 # Sobre Mim😄 #
 ## Olá, meu nome é Ligiane. Mas podem me chamar de "Ligi"
 Sou formada em engenharia de controle e automação, pelo instituto federal do Amazonas. 
