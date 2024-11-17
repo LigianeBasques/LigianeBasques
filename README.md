@@ -3,11 +3,11 @@
  [![Typing_SVG](https://readme-typing-svg.herokuapp.com/?color=b012c9&size=35&center=true&vCenter=true&width=1000&amp&lines=Oi+tudo+de+boas?+Bem+vindos+ao+meu+GitHub;Que+tal+fazer+um+tuor+pelos+meus+projetos?;+:%29)](https://git.io/typing-svg)
 # Oi! Sou Ligiane Basques😄 #
 ## Analista de QA ##
-Sou formada em engenharia de controle e automação, pelo instituto federal do Amazonas. 
-Já atuo na área como analista de QA, sempre me aprofundando nas boas práticas e princípios de testes de software.
-Atualmente venho me dedicando aos testes de acessibilidade digital. 
 
-Sou certificada em testes pela ISTQB (CTFL) e AICS (ASTFC), e possuo certificação Scrum (ASFC), buscando sempre aprimorar a qualidade e a eficácia nos testes.
+Sou formada em Engenharia de Controle e Automação pelo Instituto Federal do Amazonas e atuo como Analista de QA, com foco em aprimorar continuamente as boas práticas e os princípios de testes de software. Atualmente, dedico-me especialmente aos testes de acessibilidade digital.
+
+Possuo certificações em testes de software pela ISTQB (CTFL) e AICS (ASTFC), além de certificação em Scrum (ASFC), sempre buscando elevar a qualidade e a eficácia dos processos de teste
+
 ## Conquista e voluntariado ##
 
 <li>🏆 3ª colocação no Hackathon das Manas</li>
