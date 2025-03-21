@@ -6,7 +6,7 @@
 
 Sou formada em Engenharia de Controle e Automação pelo Instituto Federal do Amazonas e atuo como Analista de QA, com foco em aprimorar continuamente as boas práticas e os princípios de testes de software. Atualmente, dedico-me especialmente aos testes de acessibilidade digital.
 
-Possuo certificações em testes de software pela ISTQB (CTFL) e AICS (ASTFC), além de certificação em Scrum (ASFC), sempre buscando elevar a qualidade e a eficácia dos processos de teste
+Possuo certificações em testes de software pela ISTQB (CTFL e CTFL-AT) e AICS (ASTFC), além de certificação em Scrum (ASFC), sempre buscando elevar a qualidade e a eficácia dos processos de teste
 
 ## Conquista e voluntariado ##
 
